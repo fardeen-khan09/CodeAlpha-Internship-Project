@@ -16,25 +16,24 @@ Each task focuses on applying data analysis techniques to derive insights and cr
 
 ---
 
-## 🧠 Task 2 – Data Visualization (Excel Dashboard)
+## 🧠 Task 1 - Exploratory Data Analysis (EDA)
 
 *🎯 Objective:*  
-To design an interactive *Excel Dashboard* that visualizes business data and key performance indicators.
+To explore, clean, and analyze the dataset to identify trends, patterns, and key insights.
 
 *🔍 Key Highlights:*  
-- KPI Summary section displaying *Total Sales, **Total Quantity, and **Average Sales*  
-- Interactive charts for *Sales by Country, Month, and Product Category*  
-- *Slicers* for easy filtering and data exploration  
-- Clean, modern color formatting and dashboard layout  
+-Data cleaning and formatting in Excel
+-Analyzing sales by country, product, and month
+-Identifying top-selling products
+-Detecting anomalies and trends
 
 *📂 Files Included:*  
 - Task2_Project.xlsx  
-- Task2_Report.pdf  
-- Task2_Dashboard.png  
+- Task2_Report.pdf    
 
 ---
 
-## 📈 Task 3 – Dashboard & Project Report
+## 📈 Task 3 – Data Visualization
 
 *🎯 Objective:*  
 To create a professional and insightful *business performance dashboard* using Excel, focusing on clear visualization and storytelling through data.
@@ -52,9 +51,8 @@ To create a professional and insightful *business performance dashboard* using E
 ---
 
 ## ⚙ Tools & Technologies Used  
-- *Microsoft Excel:* Data Cleaning, Pivot Tables, Charts, Dashboards  
-- *Power BI:* Data Visualization & Reports  
-- *Power Query:* Data Transformation  
+- *Microsoft Excel:* Data Cleaning, Pivot Tables, Charts, Dashboards    
+- *Power Query:* Basic Data Transformation  
 - *GitHub:* Project Documentation & Hosting  
 
 ---
@@ -77,8 +75,8 @@ It showcases my ability to convert raw data into meaningful insights using profe
 
 ## 🤝 Connect with Me  
 👤 *Fardeen Khan*  
-🔗 [GitHub Profile](https://github.com/yourusername)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [GitHub Profile](https://github.com/fardeen-khan09)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mrfardeenkhan)  
 
 ---
 
