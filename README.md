@@ -16,7 +16,7 @@ Each task focuses on applying data analysis techniques to derive insights and cr
 
 ---
 
-## 🧠 Task 1 - Exploratory Data Analysis (EDA)
+## 🧠 Task 2 - Exploratory Data Analysis (EDA)
 
 *🎯 Objective:*  
 To explore, clean, and analyze the dataset to identify trends, patterns, and key insights.
