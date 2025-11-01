@@ -49,6 +49,12 @@ To create a professional and insightful *business performance dashboard* using E
 - Task3_Dashboard.png  
 
 ---
+## 📜 Certificates
+
+- [Internship Completion Certificate](./Certificates/Fardeen%20Khan%20-%20Internship%20Completion.pdf)
+- [Letter of Recommendation (LOR)](./Certificates/Fardeen%20Khan%20-%20Letter%20of%20Recommendation.pdf)
+
+---
 
 ## ⚙ Tools & Technologies Used  
 - *Microsoft Excel:* Data Cleaning, Pivot Tables, Charts, Dashboards    
