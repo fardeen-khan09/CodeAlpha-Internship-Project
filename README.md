@@ -51,7 +51,7 @@ To create a professional and insightful *business performance dashboard* using E
 ---
 ## 📜 Certificates
 
-- [Internship Completion Certificate](./Certificates/Fardeen%20Khan%20-%20Internship%20Completion.pdf)
+- [Internship Completion Certificate](https://github.com/fardeen-khan09/CodeAlpha-Internship-Project/blob/main/Fardeen%20Khan_Internship_Completion.pdf)
 - [Letter of Recommendation (LOR)](./Certificates/Fardeen%20Khan%20-%20Letter%20of%20Recommendation.pdf)
 
 ---
